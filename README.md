@@ -9,12 +9,18 @@
 **Open Programs/Sites**: Hola can open programs and sites with open/launch/start commands.
 
 **Inbuild Commands**: Hola has some system commands, Here are the following commands and their usage:
-    - Help: Shows the available commands\n
+    - Help: Shows the available commands
+    
     - Tell date: Tells the date
+    
     - Tell time: Tells the current time
+    
     - Check free ram: Checks the available ram (works in linux)
+    
     - Check cpu usage: Checks the cpu usage (works in linux)
+    
     - Install: Installs programs using package manager.
+    
     - Uninstall: Uninstalls programs using package manager.
 
 ---
